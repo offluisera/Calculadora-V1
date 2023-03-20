@@ -1,4 +1,4 @@
-# Calculador-V1
+# Calculadora-V1
 Calculadora básica feita com HTML e JS.
 
-Teste teste
+<img src="https://i.imgur.com/xT7yXgz.png">
